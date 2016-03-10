@@ -1,0 +1,32 @@
+==title #1==
+This is section {{#secnum:n|title #1}}. Ut inani summo abhorreant eos. Nisl primis ne est, mea solet theophrastus at, assum legendos an ius. Nullam verterem his an. Nobis omnesque mea id, qui magna aliquam no, tempor iuvaret mentitum at quo. Ea affert maiestatis expetendis vel, eum an graece vivendum. Tale clita singulis cu sea.
+===title #2===
+This is section {{#secnum:n|title #22}}. No, it's not. I just mistyped the title in the tag to demonstrate what happens with a typo. Ut nibh solet vim, oporteat recteque eos in. Tacimates tincidunt in nam, vix te mutat ullum doctus, ex placerat menandri ocurreret mel. An harum utroque eam. Ne usu oblique persecuti efficiantur, utinam tempor utamur pro id.
+This is a list:
+* {{#secnum:Y|title #2}} It contains some items.
+* {{#secnum:Y|title #2}} It contains some items.
+* {{#secnum:Y|title #2}} It contains some items.
+* {{#secnum:Y|title #2}} It contains some items.
+===title #3===
+This is section {{#secnum:n|title #3}}. No sint wisi principes mea, sea probo velit ei, pro quas eloquentiam an. Duis consulatu conceptam sed eu, mea omnis legere accusata no, eum eu tempor epicuri voluptaria. At mei aeterno vulputate, eam quando ubique no, rationibus scripserit vel ne. Pro te ornatus minimum platonem. Case eligendi has at, an modo explicari reprehendunt nam, ex vim oratio fuisset.
+====title #4====
+This is section {{#secnum:n|title #4}}. Meliore molestie vim no, nihil iudicabit duo ei. Eam no primis feugiat ponderum. At vis alterum reformidans, sed ea propriae signiferumque. Nam pertinacia cotidieque ut, probo tibique quo ex. Sit an quodsi praesent pericula, cu mei quot fierent, mea ex iuvaret disputationi.
+=====title #5=====
+This is section {{#secnum:n|title #5}}. Autem dicam nec no. Legere fierent ne nec. Sit saepe senserit mediocritatem an. Sea an persius argumentum repudiandae. Fabulas graecis suavitate id duo, no fugit elitr urbanitas eam.
+=====title #6=====
+This is section {{#secnum:n|title #6}}. Libris quodsi cu ius, no vim lorem nullam, an solet comprehensam has. Est id modus dicam cotidieque. At eos harum appetere, novum scripta ei sea. Ad eam dicunt utamur voluptatum.
+===title #7===
+This is section {{#secnum:n|title #7}}. Zril referrentur cu qui, per id inani instructior. Mei forensibus posidonium in, qui ut magna bonorum molestiae, justo aperiri splendide ea pro. Ne nec semper aliquam repudiandae, nostro dissentias cu has, illud qualisque ad eam. Integre omittam deleniti in sed, magna fabulas volutpat ea pri, ea eos iudico denique.
+==title #8==
+This is section {{#secnum:n|title #8}}. Ne erant voluptaria mea, nam ad docendi mandamus. Mea quas ubique scribentur te, tota augue imperdiet te quo. Elit facilis vis ne, ea nostrud menandri vulputate mei. In solum ludus duo, at gloriatur intellegat eloquentiam cum.
+This is another list:
+* {{#secnum:Y|title #8}} It contains some more items.
+* {{#secnum:Y|title #8}} It contains some more items.
+Here in section {{#secnum:n|title #8}} is another list:
+* {{#secnum:Y|title #8}} It contains some more items.
+* {{#secnum:Y|title #8}} It contains some more items.
+* {{#secnum:Y|title #8}} It contains some more items.
+===title #9===
+This is section {{#secnum:n|title #9}}. Quot propriae ex qui, sed noster persius ut, ad aperiam officiis cum. Et vel illum sententiae, suas minim dicam ad ius. Ferri mazim mei no. Augue copiosae sed et, mea fastidii placerat lobortis no.
+==title #10==
+This is section {{#secnum:n|title #10}}. Dico senserit te cum. Nec et sumo denique detracto, eos an purto graeci, debet scaevola an cum. Sed ex indoctum inciderint. Ut ius nominavi concludaturque. An ludus incorrupte has.
