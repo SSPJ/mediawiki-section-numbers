@@ -1,8 +1,8 @@
-##What it Does
+## What it Does
 
-If you have a very long or intricately numbered wiki page, you can use this extension to automatically insert section numbers (for example: 3.4 or 1.2.2.4) into the page using {{#secnum:n|section_title_goes_here}}. For example, you can write "see section {{#secnum:n|Boring Heading}} for a map of this" and it will be replaced with "see section 4.7 for a map of this".
+If you have a very long or intricately numbered wiki page, you can use this extension to automatically insert section numbers (for example: 3.4 or 1.2.2.4) into the page using `{{#secnum:n|section_title_goes_here}}`. For example, you can write `see section {{#secnum:n|Boring Heading}} for a map of this` and it will be replaced with "see section 4.7 for a map of this".
 
-You can also use {{#secnum:Y|title_goes_here}} to add an auto incrementing variable to the end of the section number. Useful in creating numbered lists, like:
+You can also use `{{#secnum:Y|title_goes_here}}` to add an auto incrementing variable to the end of the section number. Useful in creating numbered lists, like:
 ```
 * {{#secnum:Y|title #8}} It contains some more items.
 * {{#secnum:Y|title #8}} It contains some more items.
@@ -11,7 +11,7 @@ You can also use {{#secnum:Y|title_goes_here}} to add an auto incrementing varia
 
 Tested it on MediaWiki 1.24.1 with PHP 5.4.42
 
-##Installation
+## Installation
 
 1 Extract these files into [wiki_installation]/extensions/GetSectionNumber:
 ```
